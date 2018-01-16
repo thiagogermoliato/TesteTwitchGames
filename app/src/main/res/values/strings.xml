@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Teste Thiago Germoliato</string>
+    <string name="error">Desculpe, ocorreu um erro inesperado. Tente novamente.</string>
+    <string name="error_no_internet">Dispositivo offline, verifique a sua conexão.</string>
+    <string name="channel">Channels:</string>
+    <string name="viewers">Viewers:</string>
+</resources>
